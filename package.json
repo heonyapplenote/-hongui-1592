@@ -1,0 +1,17 @@
+{
+  "name": "hongui-1592",
+  "displayName": "홍의장군 1592",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "sync": "cap sync",
+    "open:android": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/android": "^6.0.0"
+  }
+}
