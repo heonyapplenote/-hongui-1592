@@ -1,0 +1,13 @@
+{
+  "appId": "com.heonyapplenote.hongui1592",
+  "appName": "홍의장군 1592",
+  "webDir": "www",
+  "backgroundColor": "#a9cfe3",
+  "android": {
+    "backgroundColor": "#a9cfe3",
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
